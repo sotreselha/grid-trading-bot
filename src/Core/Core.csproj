@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>GridBot.Core</RootNamespace>
+    <AssemblyName>GridBot.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
